@@ -1,20 +1,21 @@
 {
-  "users":  [
-    {
-      "name":"alejo",
-      "id":1,
-      "state":true
-    },
-    {
-      "name":"ema",
-      "id":2,
-      "state":false
-    },
-    {
-      "name":"juan",
-      "id":3,
-      "state":true
-    }
-
-  ]
+  "users":  {
+    "users":[
+      {
+        "name":"alejo",
+        "id":1,
+        "state":true
+      },
+      {
+        "name":"ema",
+        "id":2,
+        "state":false
+      },
+      {
+        "name":"juan",
+        "id":3,
+        "state":true
+      }
+    ]
+  }
 }
