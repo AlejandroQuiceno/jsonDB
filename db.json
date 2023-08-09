@@ -1,20 +1,20 @@
 {
   "users":  {
-    "users":[
+    "List-users":[
       {
-        "name":"alejo",
+        "name":"Alejo",
         "id":1,
-        "state":true
+        "deck":[1,2,3,4,5]
       },
       {
-        "name":"ema",
+        "name":"Emanuel",
         "id":2,
-        "state":false
+        "deck":[1,2,3,4,5]
       },
       {
-        "name":"juan",
+        "name":"Juan",
         "id":3,
-        "state":true
+        "deck":[1,2,3,4,5]
       }
     ]
   }
